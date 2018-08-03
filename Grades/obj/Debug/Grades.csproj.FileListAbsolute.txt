@@ -12,3 +12,10 @@ C:\Users\ogeoghegan\Desktop\CSharp - Pluralsight\5-exercise-files\before\Grades\
 C:\Users\ogeoghegan\Desktop\CSharp - Pluralsight\5-exercise-files\before\Grades\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
 C:\Users\ogeoghegan\Desktop\CSharp - Pluralsight\5-exercise-files\before\Grades\Grades\Grades\obj\Debug\Grades.exe
 C:\Users\ogeoghegan\Desktop\CSharp - Pluralsight\5-exercise-files\before\Grades\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\ogeoghegan\Downloads\csharp\Grades\bin\Debug\Grades.exe.config
+C:\Users\ogeoghegan\Downloads\csharp\Grades\bin\Debug\Grades.exe
+C:\Users\ogeoghegan\Downloads\csharp\Grades\bin\Debug\Grades.pdb
+C:\Users\ogeoghegan\Downloads\csharp\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+C:\Users\ogeoghegan\Downloads\csharp\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\ogeoghegan\Downloads\csharp\Grades\obj\Debug\Grades.exe
+C:\Users\ogeoghegan\Downloads\csharp\Grades\obj\Debug\Grades.pdb
