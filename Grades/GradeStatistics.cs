@@ -38,7 +38,7 @@ namespace Grades
                         break;
                 }
 
-                return null;
+                return result;
             }
         }
 
